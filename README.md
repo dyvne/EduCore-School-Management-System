@@ -206,6 +206,10 @@ http://localhost/gp/
 * Enhance communication and accessibility
 * Provide a foundation for future school management solutions
 
+## User Management
+
+![User Management](images/screenshots/user-management.png)
+
 ---
 
 # Future Improvements

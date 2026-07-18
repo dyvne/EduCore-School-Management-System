@@ -2,11 +2,10 @@
 
 
 
-!\[EduCore Logo](images/1.jpg)
 
 
 
-\## 📚 Overview
+## 📚 Overview
 
 
 
@@ -18,7 +17,7 @@ The project focuses on improving efficiency, reducing manual administrative work
 
 
 
-\---
+
 
 
 

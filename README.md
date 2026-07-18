@@ -177,24 +177,29 @@ http://localhost/gp/
 
 # Screenshots
 
-# Screenshots
-
 ## Homepage
 
 ![Homepage](images/screenshots/homepage.png)
+
+## About Page
+
+![About Page](images/screenshots/about.png)
 
 ## Login Page
 
 ![Login Page](images/screenshots/login.png)
 
-## Dashboard
+## Registration Page
 
-![Dashboard](images/screenshots/dashboard.png)
+![Registration Page](images/screenshots/registration.png)
 
-## Student Management
+## Admin Dashboard
 
-![Student Management](images/screenshots/student-management.png)
+![Admin Dashboard](images/screenshots/admin-dashboard.png)
 
+## Student Records
+
+![Student Records](images/screenshots/student-records.png)
 # Project Objectives
 
 * Digitize school administration processes

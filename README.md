@@ -177,6 +177,8 @@ http://localhost/gp/
 
 # Screenshots
 
+# Screenshots
+
 ## Homepage
 
 ![Homepage](images/screenshots/homepage.png)
@@ -199,10 +201,7 @@ http://localhost/gp/
 
 ## Student Records
 
-![Student Records](images/screenshots/student-records.png)
-# Project Objectives
-
-* Digitize school administration processes
+![Student Records](images/screenshots/student-records.png)* Digitize school administration processes
 * Improve student record management
 * Enhance communication and accessibility
 * Provide a foundation for future school management solutions

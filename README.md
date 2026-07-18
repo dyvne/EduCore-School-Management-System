@@ -177,14 +177,23 @@ http://localhost/gp/
 
 # Screenshots
 
-Add screenshots showing:
+# Screenshots
 
-* Homepage
-* Login page
-* Dashboard
-* Student management pages
+## Homepage
 
----
+![Homepage](images/screenshots/homepage.png)
+
+## Login Page
+
+![Login Page](images/screenshots/login.png)
+
+## Dashboard
+
+![Dashboard](images/screenshots/dashboard.png)
+
+## Student Management
+
+![Student Management](images/screenshots/student-management.png)
 
 # Project Objectives
 
